@@ -1,7 +1,7 @@
 class Test
 
     def initialize(num)
-        num.times {p "Test"}
+        num.times {print "Test \n"}
     end
 
 end
