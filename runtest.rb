@@ -4,7 +4,7 @@ class RunTest
     def initialize
         print "This is a "
         t = Test.new(3)
-        print "Thanks!"
+        p "Thanks!"
     end
 
 end
