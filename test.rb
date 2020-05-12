@@ -6,4 +6,4 @@ class Test
 
 end
 
-t = Test.new(5)
+#t = Test.new(5)
